@@ -1,0 +1,22 @@
+{
+  "title": "Extracting Modules or Chapters from PDFs on Ubuntu",
+  "description": "Learn how to split, extract, and manipulate PDF files using command-line tools and Python scripts on Ubuntu.",
+  "backend": {
+    "imageid": "ubuntu"
+  },
+  "details": {
+    "steps": [
+      {
+        "title": "1. Environment Setup & Tools",
+        "text": "step1.md"
+      },
+      {
+        "title": "2. Extracting Pages using Python",
+        "text": "step2.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    }
+  }
+}
